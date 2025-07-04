@@ -1,0 +1,11 @@
+Screenshots do Plugin WhatsApp Float Button
+=============================================
+
+Para um plugin WordPress completo, recomenda-se incluir screenshots na pasta raiz do plugin:
+
+screenshot-1.png (1200x900px) - Página de configurações do plugin no admin
+screenshot-2.png (1200x900px) - Botão flutuante no site (desktop)
+screenshot-3.png (1200x900px) - Botão flutuante no mobile
+screenshot-4.png (1200x900px) - Preview do botão na página de configurações
+
+Estes screenshots ajudam os usuários a entender como o plugin funciona antes da instalação.
